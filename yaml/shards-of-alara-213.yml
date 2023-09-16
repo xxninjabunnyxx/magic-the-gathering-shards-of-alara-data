@@ -1,0 +1,116 @@
+---
+object: card
+id: 19869e75-0925-45dc-b5d9-6968fbfb35b5
+oracle_id: 9da963f6-734b-4d3c-a3be-dd5cca2c7b19
+multiverse_ids:
+- 174906
+mtgo_id: 30975
+mtgo_foil_id: 30976
+tcgplayer_id: 27746
+cardmarket_id: 19738
+name: Obelisk of Esper
+lang: en
+released_at: '2008-10-03'
+uri: https://api.scryfall.com/cards/19869e75-0925-45dc-b5d9-6968fbfb35b5
+scryfall_uri: https://scryfall.com/card/ala/213/obelisk-of-esper?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/9/19869e75-0925-45dc-b5d9-6968fbfb35b5.jpg?1562701542
+  normal: https://cards.scryfall.io/normal/front/1/9/19869e75-0925-45dc-b5d9-6968fbfb35b5.jpg?1562701542
+  large: https://cards.scryfall.io/large/front/1/9/19869e75-0925-45dc-b5d9-6968fbfb35b5.jpg?1562701542
+  png: https://cards.scryfall.io/png/front/1/9/19869e75-0925-45dc-b5d9-6968fbfb35b5.png?1562701542
+  art_crop: https://cards.scryfall.io/art_crop/front/1/9/19869e75-0925-45dc-b5d9-6968fbfb35b5.jpg?1562701542
+  border_crop: https://cards.scryfall.io/border_crop/front/1/9/19869e75-0925-45dc-b5d9-6968fbfb35b5.jpg?1562701542
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: "{T}: Add {W}, {U}, or {B}."
+colors: []
+color_identity:
+- B
+- U
+- W
+keywords: []
+produced_mana:
+- B
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d667aaec-09b7-4406-b6fa-60795132dc11
+set: ala
+set_name: Shards of Alara
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d667aaec-09b7-4406-b6fa-60795132dc11
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aala&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ala?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/19869e75-0925-45dc-b5d9-6968fbfb35b5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9da963f6-734b-4d3c-a3be-dd5cca2c7b19&unique=prints
+collector_number: '213'
+digital: false
+rarity: common
+flavor_text: It is a monument as austere, unyielding, and inscrutable as Esper itself.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Francis Tsai
+artist_ids:
+- 359ccaa3-392d-48a6-9f50-d7b4a9af1993
+illustration_id: ae6bb92d-8fde-41fd-a94e-9e5213bfaa8e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 8565
+penny_rank: 12684
+prices:
+  usd: '0.18'
+  usd_foil: '1.27'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.27'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174906
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Obelisk+of+Esper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Obelisk+of+Esper&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Obelisk+of+Esper
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27746?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Obelisk+of+Esper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30975?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

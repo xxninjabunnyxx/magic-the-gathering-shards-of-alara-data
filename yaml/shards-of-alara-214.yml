@@ -1,0 +1,117 @@
+---
+object: card
+id: 5200e41f-fe10-4c39-ab12-c6e13fb81a3d
+oracle_id: e193ae18-91a0-4870-b8a1-f8dedf744708
+multiverse_ids:
+- 174887
+mtgo_id: 30953
+mtgo_foil_id: 30954
+tcgplayer_id: 27747
+cardmarket_id: 19739
+name: Obelisk of Grixis
+lang: en
+released_at: '2008-10-03'
+uri: https://api.scryfall.com/cards/5200e41f-fe10-4c39-ab12-c6e13fb81a3d
+scryfall_uri: https://scryfall.com/card/ala/214/obelisk-of-grixis?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/5200e41f-fe10-4c39-ab12-c6e13fb81a3d.jpg?1562703911
+  normal: https://cards.scryfall.io/normal/front/5/2/5200e41f-fe10-4c39-ab12-c6e13fb81a3d.jpg?1562703911
+  large: https://cards.scryfall.io/large/front/5/2/5200e41f-fe10-4c39-ab12-c6e13fb81a3d.jpg?1562703911
+  png: https://cards.scryfall.io/png/front/5/2/5200e41f-fe10-4c39-ab12-c6e13fb81a3d.png?1562703911
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/5200e41f-fe10-4c39-ab12-c6e13fb81a3d.jpg?1562703911
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/5200e41f-fe10-4c39-ab12-c6e13fb81a3d.jpg?1562703911
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: "{T}: Add {U}, {B}, or {R}."
+colors: []
+color_identity:
+- B
+- R
+- U
+keywords: []
+produced_mana:
+- B
+- R
+- U
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d667aaec-09b7-4406-b6fa-60795132dc11
+set: ala
+set_name: Shards of Alara
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d667aaec-09b7-4406-b6fa-60795132dc11
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aala&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ala?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5200e41f-fe10-4c39-ab12-c6e13fb81a3d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae193ae18-91a0-4870-b8a1-f8dedf744708&unique=prints
+collector_number: '214'
+digital: false
+rarity: common
+flavor_text: Like most features of Grixis, the obelisks that remain from the time
+  of Alara now exist only for dark exploitation.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: f7af157f-eeca-4df0-aca2-c959820f1630
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7057
+penny_rank: 6271
+prices:
+  usd: '0.20'
+  usd_foil: '0.49'
+  usd_etched: 
+  eur: '0.14'
+  eur_foil: '0.50'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174887
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Obelisk+of+Grixis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Obelisk+of+Grixis&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Obelisk+of+Grixis
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27747?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Obelisk+of+Grixis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/30953?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

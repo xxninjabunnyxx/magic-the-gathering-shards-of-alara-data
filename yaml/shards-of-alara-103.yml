@@ -1,0 +1,118 @@
+---
+object: card
+id: 848f6c49-0913-4f12-886d-8b6defe8bfab
+oracle_id: 5aad3485-47c1-4d87-b340-61d7003cd786
+multiverse_ids:
+- 176455
+mtgo_id: 31277
+mtgo_foil_id: 31278
+tcgplayer_id: 27694
+cardmarket_id: 19865
+name: Hell's Thunder
+lang: en
+released_at: '2008-10-03'
+uri: https://api.scryfall.com/cards/848f6c49-0913-4f12-886d-8b6defe8bfab
+scryfall_uri: https://scryfall.com/card/ala/103/hells-thunder?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/4/848f6c49-0913-4f12-886d-8b6defe8bfab.jpg?1562706117
+  normal: https://cards.scryfall.io/normal/front/8/4/848f6c49-0913-4f12-886d-8b6defe8bfab.jpg?1562706117
+  large: https://cards.scryfall.io/large/front/8/4/848f6c49-0913-4f12-886d-8b6defe8bfab.jpg?1562706117
+  png: https://cards.scryfall.io/png/front/8/4/848f6c49-0913-4f12-886d-8b6defe8bfab.png?1562706117
+  art_crop: https://cards.scryfall.io/art_crop/front/8/4/848f6c49-0913-4f12-886d-8b6defe8bfab.jpg?1562706117
+  border_crop: https://cards.scryfall.io/border_crop/front/8/4/848f6c49-0913-4f12-886d-8b6defe8bfab.jpg?1562706117
+mana_cost: "{1}{R}{R}"
+cmc: 3.0
+type_line: Creature — Elemental
+oracle_text: |-
+  Flying, haste
+  At the beginning of the end step, sacrifice Hell's Thunder.
+  Unearth {4}{R} ({4}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
+power: '4'
+toughness: '4'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+- Unearth
+- Haste
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d667aaec-09b7-4406-b6fa-60795132dc11
+set: ala
+set_name: Shards of Alara
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d667aaec-09b7-4406-b6fa-60795132dc11
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aala&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ala?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/848f6c49-0913-4f12-886d-8b6defe8bfab/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5aad3485-47c1-4d87-b340-61d7003cd786&unique=prints
+collector_number: '103'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Karl Kopinski
+artist_ids:
+- 0fad2c48-a56e-4a0b-b512-224f6f238f20
+illustration_id: 3190ea65-3587-4081-8de6-dbf5f1bdc0c4
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14335
+penny_rank: 7118
+prices:
+  usd: '0.23'
+  usd_foil: '0.97'
+  usd_etched: 
+  eur: '0.13'
+  eur_foil: '1.45'
+  tix: '0.01'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=176455
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hell%27s+Thunder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hell%27s+Thunder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hell%27s+Thunder
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27694?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hell%27s+Thunder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/31277?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

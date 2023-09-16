@@ -1,0 +1,113 @@
+---
+object: card
+id: 03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5
+oracle_id: 6b9cd3d0-4316-4945-b960-12f51052d260
+multiverse_ids:
+- 179431
+mtgo_id: 31317
+mtgo_foil_id: 31318
+tcgplayer_id: 27663
+cardmarket_id: 19747
+name: Esper Panorama
+lang: en
+released_at: '2008-10-03'
+uri: https://api.scryfall.com/cards/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5
+scryfall_uri: https://scryfall.com/card/ala/223/esper-panorama?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/3/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5.jpg?1562700663
+  normal: https://cards.scryfall.io/normal/front/0/3/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5.jpg?1562700663
+  large: https://cards.scryfall.io/large/front/0/3/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5.jpg?1562700663
+  png: https://cards.scryfall.io/png/front/0/3/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5.png?1562700663
+  art_crop: https://cards.scryfall.io/art_crop/front/0/3/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5.jpg?1562700663
+  border_crop: https://cards.scryfall.io/border_crop/front/0/3/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5.jpg?1562700663
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {1}, {T}, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d667aaec-09b7-4406-b6fa-60795132dc11
+set: ala
+set_name: Shards of Alara
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d667aaec-09b7-4406-b6fa-60795132dc11
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aala&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ala?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6b9cd3d0-4316-4945-b960-12f51052d260&unique=prints
+collector_number: '223'
+digital: false
+rarity: common
+flavor_text: Esper is an expansive canvas painted by precise, controlling hands.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Franz Vohwinkel
+artist_ids:
+- 3a243c17-3baa-4b53-9599-645311cd7d3d
+illustration_id: c7439edb-0eee-4978-a5ce-f80a70d9e61c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2249
+penny_rank: 5192
+prices:
+  usd: '0.18'
+  usd_foil: '1.98'
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: '1.26'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179431
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Esper+Panorama&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Esper+Panorama&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Esper+Panorama
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27663?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Esper+Panorama&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/31317?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,113 @@
+---
+object: card
+id: 6ef9a534-8938-4f73-aa62-dd4d81a18cc1
+oracle_id: 3edac7df-2a88-4718-865e-703dff9c972e
+multiverse_ids:
+- 178091
+mtgo_id: 31366
+mtgo_foil_id: 31367
+tcgplayer_id: 27639
+cardmarket_id: 19701
+name: Covenant of Minds
+lang: en
+released_at: '2008-10-03'
+uri: https://api.scryfall.com/cards/6ef9a534-8938-4f73-aa62-dd4d81a18cc1
+scryfall_uri: https://scryfall.com/card/ala/38/covenant-of-minds?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/e/6ef9a534-8938-4f73-aa62-dd4d81a18cc1.jpg?1562705224
+  normal: https://cards.scryfall.io/normal/front/6/e/6ef9a534-8938-4f73-aa62-dd4d81a18cc1.jpg?1562705224
+  large: https://cards.scryfall.io/large/front/6/e/6ef9a534-8938-4f73-aa62-dd4d81a18cc1.jpg?1562705224
+  png: https://cards.scryfall.io/png/front/6/e/6ef9a534-8938-4f73-aa62-dd4d81a18cc1.png?1562705224
+  art_crop: https://cards.scryfall.io/art_crop/front/6/e/6ef9a534-8938-4f73-aa62-dd4d81a18cc1.jpg?1562705224
+  border_crop: https://cards.scryfall.io/border_crop/front/6/e/6ef9a534-8938-4f73-aa62-dd4d81a18cc1.jpg?1562705224
+mana_cost: "{4}{U}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Reveal the top three cards of your library. Target opponent may choose
+  to put those cards into your hand. If they don't, put those cards into your graveyard
+  and draw five cards.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d667aaec-09b7-4406-b6fa-60795132dc11
+set: ala
+set_name: Shards of Alara
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d667aaec-09b7-4406-b6fa-60795132dc11
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aala&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ala?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6ef9a534-8938-4f73-aa62-dd4d81a18cc1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3edac7df-2a88-4718-865e-703dff9c972e&unique=prints
+collector_number: '38'
+digital: false
+rarity: rare
+flavor_text: Before signing anything on Grixis, always read the fine print.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Seagrave
+artist_ids:
+- 73f3ddb7-2ac6-4ac2-8170-0a6037a42c99
+illustration_id: b4707bb1-0022-4481-93e0-fb0985636c4f
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15259
+penny_rank: 14281
+prices:
+  usd: '0.17'
+  usd_foil: '0.49'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '0.25'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178091
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Covenant+of+Minds&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Covenant+of+Minds&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Covenant+of+Minds
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/27639?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Covenant+of+Minds&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/31366?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
